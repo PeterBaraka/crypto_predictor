@@ -6,7 +6,7 @@ This project involves predicting Bitcoin prices using a Long Short-Term Memory (
 
 ## Project Structure
 
-- `crypto_predictor.ipynb`: Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
+- `crypto_predictor_V2.ipynb`: Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
 - [Data source](https://www.investing.com/crypto/bitcoin/historical-data): Dataset containing historical Bitcoin price data used for training the model.
 - `README.md`: This file.
 
