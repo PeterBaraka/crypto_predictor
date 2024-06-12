@@ -24,5 +24,5 @@ This project involves predicting Bitcoin prices using a Long Short-Term Memory (
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bitcoin-price-prediction.git
+   git clone https://github.com/PeterBaraka/crypto_predictor.git
    cd bitcoin-price-prediction
